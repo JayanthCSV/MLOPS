@@ -22,7 +22,7 @@ def about():
 @app.royte('/form', methods = ['GET', 'Post'])
 def form():
     if request.method=='POST':
-        name=request.method['name']
+        name=request.form['name']
         return f'Hello {name}!'
 
     return render_template('form.html')
