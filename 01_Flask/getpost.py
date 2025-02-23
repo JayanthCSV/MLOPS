@@ -19,12 +19,12 @@ def index():
 def about():
     return render_template('about.html')
 
-@app.royte('/form', methods = ['GET', 'Post'])
+@app.route('/form',methods=['GET','POST'])
 def form():
     if request.method=='POST':
         name=request.form['name']
         return f'Hello {name}!'
-
+    
     return render_template('form.html')
 
 
