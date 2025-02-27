@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456/a8e1f4b7a8564cdab60ab7454478b5f9/artifacts
+end_time: 1740620359356
+entry_point_name: ''
+experiment_id: '637530870064824456'
+lifecycle_stage: active
+run_id: a8e1f4b7a8564cdab60ab7454478b5f9
+run_name: rogue-pug-23
+run_uuid: a8e1f4b7a8564cdab60ab7454478b5f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740620359164
+status: 4
+tags: []
+user_id: jayan

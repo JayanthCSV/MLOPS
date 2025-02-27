@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456/5f7a70f676594345bc1b1021d968ad3d/artifacts
+end_time: 1740620424258
+entry_point_name: ''
+experiment_id: '637530870064824456'
+lifecycle_stage: active
+run_id: 5f7a70f676594345bc1b1021d968ad3d
+run_name: abundant-hound-284
+run_uuid: 5f7a70f676594345bc1b1021d968ad3d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740620417569
+status: 3
+tags: []
+user_id: jayan

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456/ce377725979f46f08a80cd3cfbad5682/artifacts
+end_time: 1740620395895
+entry_point_name: ''
+experiment_id: '637530870064824456'
+lifecycle_stage: active
+run_id: ce377725979f46f08a80cd3cfbad5682
+run_name: nebulous-mare-594
+run_uuid: ce377725979f46f08a80cd3cfbad5682
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740620395259
+status: 4
+tags: []
+user_id: jayan

@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456/97428d3ec67249ada6e9e15e073a5997/artifacts
+end_time: 1740620395899
+entry_point_name: ''
+experiment_id: '637530870064824456'
+lifecycle_stage: active
+run_id: 97428d3ec67249ada6e9e15e073a5997
+run_name: redolent-trout-958
+run_uuid: 97428d3ec67249ada6e9e15e073a5997
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740620395183
+status: 4
+tags: []
+user_id: jayan

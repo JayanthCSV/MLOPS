@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456/b68ed189fd2e46d0b958ea2ff91d2e7c/artifacts
+end_time: 1740620437378
+entry_point_name: ''
+experiment_id: '637530870064824456'
+lifecycle_stage: active
+run_id: b68ed189fd2e46d0b958ea2ff91d2e7c
+run_name: serious-bug-286
+run_uuid: b68ed189fd2e46d0b958ea2ff91d2e7c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740620430792
+status: 3
+tags: []
+user_id: jayan

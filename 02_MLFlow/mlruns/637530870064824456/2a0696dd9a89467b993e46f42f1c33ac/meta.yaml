@@ -1,0 +1,15 @@
+artifact_uri: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456/2a0696dd9a89467b993e46f42f1c33ac/artifacts
+end_time: 1740620442972
+entry_point_name: ''
+experiment_id: '637530870064824456'
+lifecycle_stage: active
+run_id: 2a0696dd9a89467b993e46f42f1c33ac
+run_name: beautiful-hog-884
+run_uuid: 2a0696dd9a89467b993e46f42f1c33ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740620408988
+status: 3
+tags: []
+user_id: jayan

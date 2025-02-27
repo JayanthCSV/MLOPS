@@ -1,0 +1,6 @@
+artifact_location: file:///e:/MachineLearning_Course/MLOPS/Practice/02_MLFlow/mlruns/637530870064824456
+creation_time: 1740620358995
+experiment_id: '637530870064824456'
+last_update_time: 1740620358995
+lifecycle_stage: active
+name: wine-quality

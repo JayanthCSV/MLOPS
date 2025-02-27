@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/946712610939946164/5f68c940192e4513bd3ba57c842acd26/artifacts
+end_time: 1740616732896
+entry_point_name: ''
+experiment_id: '946712610939946164'
+lifecycle_stage: active
+run_id: 5f68c940192e4513bd3ba57c842acd26
+run_name: luminous-rook-482
+run_uuid: 5f68c940192e4513bd3ba57c842acd26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740616728980
+status: 3
+tags: []
+user_id: jayan
